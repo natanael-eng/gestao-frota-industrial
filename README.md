@@ -20,3 +20,14 @@ Diferente de scripts simples, este projeto aplica:
 
 ---
 **Desenvolvido por Natanael Lira Ferreira** *Manutenção Industrial | Estudante de Engenharia de Software*
+## 📊 Exemplo de Saída do Sistema (Relatório de Frota)
+```text
+------------------------------------------------------------------------------------------
+📋 RELATÓRIO DE FROTA INDUSTRIAL - DATA: 27/03/2026
+------------------------------------------------------------------------------------------
+[VTR-001] Hilux 4x4 L200  | Status: Disponível   | Odômetro: 45200 km | Faltam 4800 km
+[VTR-002] Hilux 4x4 L200  | Status: Disponível   | Odômetro: 61000 km | ⚠️ CRÍTICO: REVISÃO IMEDIATA
+[EMP-010] Empilhadeira CAT| Status: Em Manutenção| Odômetro: 12500 km | Faltam 9500 km
+[VTR-003] Ford Ranger     | Status: Disponível   | Odômetro: 15000 km | Faltam 5000 km
+[BUS-005] Micro-ônibus    | Status: Disponível   | Odômetro: 89500 km | Faltam 500 km
+------------------------------------------------------------------------------------------
